@@ -1,6 +1,6 @@
 # Readme
 
-Dear <u>visitor</u>, this is a dummy repository to test the functionalities of **GitHub** for building a knowledge container with a wiki style.
+Dear `visitor`, this is a dummy repository to test the functionalities of **GitHub** for building a knowledge container with a wiki style.
 
 From here you can go to <a href="./main.md">main</a> markdown.
 
